@@ -1,0 +1,15 @@
+.vscode/
+*__pycache__*
+.idea/
+*~
+*.o
+*.dat
+*.exe
+*.aux
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.xml
+*.iml
+*.dvi

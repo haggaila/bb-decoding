@@ -1,0 +1,13 @@
+# This file allows to define a noise model with global error rates.
+
+prep: 0.001
+id_s: 0.001
+id_l: 0.005
+cnot: 0.001
+meas: 0.02
+bias: 0.005
+flip: 0.0002
+leak: 0.002
+seep: 0.2
+back: 0.025
+corr: 0.0

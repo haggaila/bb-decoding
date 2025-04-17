@@ -1,0 +1,11 @@
+bposd>=1.6
+ldpc==0.1.60
+matplotlib>=3.8.3
+matplotlib_label_lines>=0.7.0
+
+# For binary incompatiability reasons
+numpy>=1.24.3,<2.0
+scipy>=1.13.0
+pandas
+pyyaml
+
