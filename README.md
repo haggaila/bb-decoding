@@ -1,4 +1,4 @@
-A package allowing to execute Monte Carlo decoding simulations of bivariate-bicycle quantum error correction codes, with a state-dependent noise model going Pauli noise (including qubit decay and leakage), and conditional pre-measurement check-qubit flips suppressing faults in the readout gates.
+A package allowing to execute Monte Carlo decoding simulations of bivariate-bicycle quantum error correction codes, with a state-dependent noise model going beyond Pauli noise (including spontaneous decay and leakage), and conditional pre-measurement flips of check qubits suppressing faults in the readout gates.
 
 Source code and data for the simulations presented in:  
 _Feedforward suppression of readout-induced faults in quantum error correction_  
