@@ -7,7 +7,7 @@ Liran Shirizly, Dekel Meirom, Malcolm Carroll, Haggai Landa,
 
 This code is based on the sources and simulations described in:  
 _High-threshold and lowoverhead fault-tolerant quantum memory_  
-[Nature **627**, 778 (2024)](https://www.nature.com/articles/s41586-024-07107-7)
+[Nature **627**, 778 (2024)](https://www.nature.com/articles/s41586-024-07107-7)  
 https://github.com/sbravyi/BivariateBicycleCodes  
 
 Decoding relies on the software implementation of the Belief Propagation with the Ordered Statistics Decoder at:  
